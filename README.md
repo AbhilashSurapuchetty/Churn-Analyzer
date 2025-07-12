@@ -96,5 +96,5 @@ Feel free to fork the repo and raise a PR with improvements or ideas!
 
 ## 📬 Contact
 
-Built by [Your Name](https://github.com/AbhilashSurapuchetty)  
+Built by [Abhilash Surapuchetty](https://github.com/AbhilashSurapuchetty)  
 If you liked it, ⭐️ the repo!
